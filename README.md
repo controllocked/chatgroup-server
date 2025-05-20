@@ -36,7 +36,7 @@ gcc -o chat_server main.c sockutils.c
     telnet localhost 12345
     ```
 2. Введите никнейм.  
-3. Отправляйте сообщения — они будут передаваться другим пользователям.
+3. Отправляйте сообщения - они будут передаваться другим пользователям.
 
 ### 📝 Примечания
 - Никнейм должен состоять только из латинских букв (до 32 символов).  
@@ -82,7 +82,7 @@ Example:
     telnet localhost 12345
     ```
 2. Enter your nickname when prompted.  
-3. Send messages — they will be broadcast to all other users.
+3. Send messages - they will be broadcast to all other users.
 
 ### 📝 Notes
 - Nicknames must consist of Latin letters only (max 32 characters).  
